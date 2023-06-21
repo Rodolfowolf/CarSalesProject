@@ -2,6 +2,9 @@
 <html lang="en">
   <head>
     <title>Assignment 3</title>
+    <meta name="How Sweet is this" content="Page about my favorite candy">
+    <meta name="keywords" content="HTML, CSS, PHP">
+    <meta name="author" content="Rodolfo Silva">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Dancing+Script&family=Orbitron:wght@500&display=swap" rel="stylesheet">
